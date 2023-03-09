@@ -20,7 +20,7 @@ Balance   string
 Statement []string 
 
 #### Start The Program
-1)Move to Go-ATM directory ($ cd Go-ATM)
+1)Move to Go-ATM directory ($ cd Go-ATM) <br />
 2)go run main.go
 
 #### Create Account
