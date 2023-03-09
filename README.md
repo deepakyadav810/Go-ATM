@@ -2,9 +2,9 @@
 This repository contains a basic ATM system that provides a seamless and secure experience for customers. The ATM system allows customers to easily and efficiently access their bank accounts, withdraw cash, deposit money, regenerate the pinand generate the bank transaction statements.
 
 ## Requirements
-1)Golang
-2)MongoDB
-3)Gin Framework
+1)Golang <br />
+2)MongoDB <br />
+3)Gin Framework <br />
 4)Thunder Client/Postman
 
 
